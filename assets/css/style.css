@@ -2,6 +2,7 @@
 :root {
     --bg_primary:#1abc9c;
     --bg_top_footer: #3a546d;
+    --bg_dark_blue: #2c3e50;
 }
 
 .eb_primary {
@@ -14,10 +15,8 @@
 }
 
 .eb_dark {
-    background-color: black;
+    background-color: var(--bg_dark_blue);
 }
-
-
 
 .eb_size {
     width: 260px;
@@ -66,4 +65,12 @@
 
 .eb_freelancer a {
     color: var(--bg_primary);
+}
+
+.copyright p {
+    font-size: 0.7rem;
+}
+
+.copyright {
+    background-color: var(--bg_dark_blue);
 }
