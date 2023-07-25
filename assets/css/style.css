@@ -7,7 +7,6 @@
 
 .eb_primary {
     background-color: var(--bg_primary);
-
 }
 
 .eb_light {
@@ -16,6 +15,10 @@
 
 .eb_dark {
     background-color: var(--bg_dark_blue);
+}
+
+.eb_my_n3 {
+    margin:  0 -0.75rem;
 }
 
 .eb_size {
