@@ -45,16 +45,16 @@
 }
 
 .social a {
-    width: 3rem;
-    aspect-ratio: 1/1 ;
-    text-decoration-line: none;
     color: white;
     position: relative;
-    margin: 0.5rem;
     width: 1.5rem;
-    border: 1px solid;
     padding: 1.5rem;
-    border-radius: 50%;
+
+    /* si potrebbe utilizzare queste al posto di scrivere le stesse cose nell'HTML */
+    
+    /* margin:0.5rem; */
+    /* border: 1px solid; */
+    /* border-radius: 50%*/
 
 }
 
