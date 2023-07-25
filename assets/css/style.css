@@ -26,6 +26,13 @@
 
 .eb_line {
     height: 3px;
-    width: 20%;
+    width: 6rem;
     border-radius: 3px;
+}
+
+
+.eb_nav {
+    background-color: black;
+    width: 100%;
+    height: 5rem;
 }
