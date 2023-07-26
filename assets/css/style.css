@@ -16,6 +16,9 @@
 .eb_dark {
     background-color: var(--bg_dark_blue);
 }
+.eb_gray-blue {
+    background-color: var(--bg_top_footer)
+}
 
 .eb_my_n3 {
     margin:  0 -0.75rem;
